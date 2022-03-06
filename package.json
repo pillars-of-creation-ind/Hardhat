@@ -1,0 +1,18 @@
+{
+  "name": "hardhat-project",
+  "version": "1.0.0",
+  "description": "Hardhat basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hardhat",
+    "solidity"
+  ],
+  "author": "Abhishek Bharti",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.9.1"
+  }
+}
