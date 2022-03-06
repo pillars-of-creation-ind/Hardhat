@@ -30,3 +30,9 @@ Installtion
 npm i -D hardhat
 npx hardhat
 ```
+
+Compile Contracts
+
+```bash
+npx hardhat compile
+```
